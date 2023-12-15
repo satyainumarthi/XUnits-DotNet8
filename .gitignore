@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CRUDOperations/FileContentIndex/003cfc9c-c947-4dd5-8b3a-5d0f82fa2fb5.vsidx
+/.vs/CRUDOperations/config
+/.vs
+/BusinessLogicLayer/bin/Debug/net8.0
+/BusinessLogicLayer/obj
+/CRUDAPI's/bin/Debug/net8.0
+/CRUDAPI's/obj
+/DataAccessLayer/bin/Debug/net8.0
+/DataAccessLayer/obj
+/Models/bin/Debug/net8.0
+/Models/obj

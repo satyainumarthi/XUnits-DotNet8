@@ -1,0 +1,57 @@
+{
+  "CRUDAPI.dll": {
+    "D:\\CloudCoderHub\\GenericRepositoryPatternDotNet8-main\\CRUDAPI's\\Controllers\\EmployeeController.cs": {
+      "CRUDAPI_s.Controllers.EmployeeController": {
+        "System.Collections.Generic.IEnumerable`1<Models.Employee> CRUDAPI_s.Controllers.EmployeeController::Get()": {
+          "Lines": {
+            "21": 1,
+            "22": 1,
+            "23": 1
+          },
+          "Branches": []
+        },
+        "Models.Employee CRUDAPI_s.Controllers.EmployeeController::Get(System.Int32)": {
+          "Lines": {
+            "28": 2,
+            "29": 2,
+            "30": 2
+          },
+          "Branches": []
+        },
+        "System.Void CRUDAPI_s.Controllers.EmployeeController::Post(Models.Employee)": {
+          "Lines": {
+            "35": 1,
+            "36": 1,
+            "38": 1
+          },
+          "Branches": []
+        },
+        "System.Void CRUDAPI_s.Controllers.EmployeeController::Put(System.Int32,Models.Employee)": {
+          "Lines": {
+            "43": 1,
+            "44": 1,
+            "45": 1
+          },
+          "Branches": []
+        },
+        "System.Void CRUDAPI_s.Controllers.EmployeeController::Delete(System.Int32)": {
+          "Lines": {
+            "50": 1,
+            "51": 1,
+            "52": 1
+          },
+          "Branches": []
+        },
+        "System.Void CRUDAPI_s.Controllers.EmployeeController::.ctor(BusinessLogicLayer.IEmployeeService)": {
+          "Lines": {
+            "14": 6,
+            "15": 6,
+            "16": 6,
+            "17": 6
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

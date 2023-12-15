@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.581967213114754" branch-rate="1" lines-covered="71" lines-valid="122" branches-covered="4" branches-valid="4" complexity="35" version="0" timestamp="1702597354">
+  <sources>
+    <source>D:\CloudCoderHub\GenericRepositoryPatternDotNet8-main\</source>
+    <source>C:\</source>
+  </sources>
+  <packages>
+    <package name="BusinessLogicLayer" line-rate="0" branch-rate="1" complexity="6">
+      <classes>
+        <class name="BusinessLogicLayer.EmployeeService" filename="D:\CloudCoderHub\GenericRepositoryPatternDotNet8-main\BusinessLogicLayer\EmployeeService.cs" line-rate="0" branch-rate="1" complexity="6">
+          <methods>
+            <method name="AddEmployee" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="DeleteEmployee" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAllEmployees" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetEmployee" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="UpdateEmployee" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="CRUDAPI" line-rate="1" branch-rate="1" complexity="6">
+      <classes>
+        <class name="CRUDAPI_s.Controllers.EmployeeController" filename="D:\CloudCoderHub\GenericRepositoryPatternDotNet8-main\CRUDAPI's\Controllers\EmployeeController.cs" line-rate="1" branch-rate="1" complexity="6">
+          <methods>
+            <method name="Get" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="1" branch="false" />
+                <line number="22" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Get" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="2" branch="false" />
+                <line number="29" hits="2" branch="false" />
+                <line number="30" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="Post" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="1" branch="false" />
+                <line number="36" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Put" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="43" hits="1" branch="false" />
+                <line number="44" hits="1" branch="false" />
+                <line number="45" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Delete" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="50" hits="1" branch="false" />
+                <line number="51" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="6" branch="false" />
+                <line number="15" hits="6" branch="false" />
+                <line number="16" hits="6" branch="false" />
+                <line number="17" hits="6" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="6" branch="false" />
+            <line number="15" hits="6" branch="false" />
+            <line number="16" hits="6" branch="false" />
+            <line number="17" hits="6" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="28" hits="2" branch="false" />
+            <line number="29" hits="2" branch="false" />
+            <line number="30" hits="2" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="43" hits="1" branch="false" />
+            <line number="44" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="50" hits="1" branch="false" />
+            <line number="51" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="DataAccessLayer" line-rate="0" branch-rate="1" complexity="8">
+      <classes>
+        <class name="DataAccessLayer.DatabaseContext" filename="D:\CloudCoderHub\GenericRepositoryPatternDotNet8-main\DataAccessLayer\DatabaseContext.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Employees" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="DataAccessLayer.Repository`1" filename="D:\CloudCoderHub\GenericRepositoryPatternDotNet8-main\DataAccessLayer\Repository.cs" line-rate="0" branch-rate="1" complexity="6">
+          <methods>
+            <method name="Add" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Delete" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Get" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAll" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Update" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Models" line-rate="1" branch-rate="1" complexity="3">
+      <classes>
+        <class name="Models.Employee" filename="D:\CloudCoderHub\GenericRepositoryPatternDotNet8-main\Models\Employee.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="11" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Name" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="10" branch="false" />
+              </lines>
+            </method>
+            <method name="get_City" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="10" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="11" branch="false" />
+            <line number="6" hits="10" branch="false" />
+            <line number="7" hits="10" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="XunitProject" line-rate="0.924528301886792" branch-rate="1" complexity="12">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\HP\.nuget\packages\microsoft.net.test.sdk\17.6.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="XunitProject.EmployeeClassData" filename="D:\CloudCoderHub\GenericRepositoryPatternDotNet8-main\XunitProject\EmployeeControllerTests.cs" line-rate="0.785714285714286" branch-rate="1" complexity="2">
+          <methods>
+            <method name="System.Collections.IEnumerable.GetEnumerator" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="116" hits="0" branch="false" />
+                <line number="117" hits="0" branch="false" />
+                <line number="118" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetEnumerator" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="103" hits="4" branch="false" />
+                <line number="104" hits="4" branch="false" />
+                <line number="105" hits="4" branch="false" />
+                <line number="106" hits="4" branch="false" />
+                <line number="107" hits="4" branch="false" />
+                <line number="108" hits="4" branch="false" />
+                <line number="109" hits="4" branch="false" />
+                <line number="110" hits="4" branch="false" />
+                <line number="111" hits="4" branch="false" />
+                <line number="112" hits="4" branch="false" />
+                <line number="113" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="103" hits="4" branch="false" />
+            <line number="104" hits="4" branch="false" />
+            <line number="105" hits="4" branch="false" />
+            <line number="106" hits="4" branch="false" />
+            <line number="107" hits="4" branch="false" />
+            <line number="108" hits="4" branch="false" />
+            <line number="109" hits="4" branch="false" />
+            <line number="110" hits="4" branch="false" />
+            <line number="111" hits="4" branch="false" />
+            <line number="112" hits="4" branch="false" />
+            <line number="113" hits="2" branch="false" />
+            <line number="116" hits="0" branch="false" />
+            <line number="117" hits="0" branch="false" />
+            <line number="118" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="XunitProject.EmployeeControllerTests" filename="D:\CloudCoderHub\GenericRepositoryPatternDotNet8-main\XunitProject\EmployeeControllerTests.cs" line-rate="1" branch-rate="1" complexity="9">
+          <methods>
+            <method name="EmployeeController_GetAllEmployee" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="1" branch="false" />
+                <line number="24" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+                <line number="35" hits="1" branch="false" />
+                <line number="36" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="EmployeeController_GetEmployeeById" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="42" hits="2" branch="false" />
+                <line number="44" hits="2" branch="false" />
+                <line number="45" hits="2" branch="true" condition-coverage="100% (4/4)" />
+                <line number="48" hits="1" branch="false" />
+                <line number="49" hits="1" branch="false" />
+                <line number="51" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+                <line number="55" hits="2" branch="false" />
+                <line number="58" hits="2" branch="false" />
+                <line number="61" hits="2" branch="false" />
+                <line number="62" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="EmployeeController_InsertEmployee" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="67" hits="1" branch="false" />
+                <line number="69" hits="1" branch="false" />
+                <line number="72" hits="1" branch="false" />
+                <line number="74" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="EmployeeController_UpdateEmployee" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="79" hits="1" branch="false" />
+                <line number="81" hits="1" branch="false" />
+                <line number="84" hits="1" branch="false" />
+                <line number="86" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="EmployeeController_DeleteEmployee" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="91" hits="1" branch="false" />
+                <line number="93" hits="1" branch="false" />
+                <line number="96" hits="1" branch="false" />
+                <line number="97" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="6" branch="false" />
+                <line number="15" hits="6" branch="false" />
+                <line number="16" hits="6" branch="false" />
+                <line number="17" hits="6" branch="false" />
+                <line number="18" hits="6" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="6" branch="false" />
+            <line number="15" hits="6" branch="false" />
+            <line number="16" hits="6" branch="false" />
+            <line number="17" hits="6" branch="false" />
+            <line number="18" hits="6" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="42" hits="2" branch="false" />
+            <line number="44" hits="2" branch="false" />
+            <line number="45" hits="2" branch="true" condition-coverage="100% (4/4)" />
+            <line number="48" hits="1" branch="false" />
+            <line number="49" hits="1" branch="false" />
+            <line number="51" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="55" hits="2" branch="false" />
+            <line number="58" hits="2" branch="false" />
+            <line number="61" hits="2" branch="false" />
+            <line number="62" hits="2" branch="false" />
+            <line number="67" hits="1" branch="false" />
+            <line number="69" hits="1" branch="false" />
+            <line number="72" hits="1" branch="false" />
+            <line number="74" hits="1" branch="false" />
+            <line number="79" hits="1" branch="false" />
+            <line number="81" hits="1" branch="false" />
+            <line number="84" hits="1" branch="false" />
+            <line number="86" hits="1" branch="false" />
+            <line number="91" hits="1" branch="false" />
+            <line number="93" hits="1" branch="false" />
+            <line number="96" hits="1" branch="false" />
+            <line number="97" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
